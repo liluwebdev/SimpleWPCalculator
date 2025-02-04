@@ -15,7 +15,7 @@ A simple calculator plugin for WordPress that supports addition, subtraction, mu
 4. Use `[advanced_calculator]` shortcode.
 
 ## 🎨 Demo
-![Calculator Screenshot](test--advanced-calculator.png)
+![Calculator Screenshot](test-advanced-calculator.png)
 )
 
 ## 🏆 Author
