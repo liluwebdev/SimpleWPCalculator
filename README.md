@@ -1,17 +1,21 @@
-# Custom Price Calculator Plugin
+# Advanced Calculator WordPress Plugin
 
-A simple price calculator WordPress plugin using JavaScript.
+A simple calculator plugin for WordPress that supports addition, subtraction, multiplication, and division.
 
-## Installation
+## 🚀 Features
+- Uses a shortcode `[advanced_calculator]` to embed in posts/pages.
+- Supports **addition, subtraction, multiplication, and division**.
+- Built with **JavaScript & PHP**.
+- Styled for **clean, responsive UI**.
+
+## 🛠️ Installation
 1. Download or clone this repo.
 2. Upload the `custom-calculator` folder to `/wp-content/plugins/`.
 3. Activate the plugin in WordPress.
-4. Add `[custom_calculator]` shortcode to any page.
+4. Use `[advanced_calculator]` shortcode.
 
-## Features
-- Dynamically calculates total based on price and quantity.
-- Uses JavaScript for interactivity.
-- Responsive design.
+## 🎨 Demo
+![Calculator Screenshot](screenshot.png)
 
-## Author
+## 🏆 Author
 Lindsey Ussery
